@@ -1,13 +1,13 @@
 {
-  "title": "module-name",
-  "description": "desc",
-  "id": "module-id",
+  "title": "gurps-test",
+  "description": "gurps-test",
+  "id": "gurps-test",
   "version": "1.0",
   "authors": [
     {
-      "name": "theripper93",
-      "email": "tsplab@gmail.com",
-      "url": "https://www.patreon.com/theripper93"
+      "name": "luigi",
+      "email": "giggioz@gmail.com",
+      "url": ""
     }
   ],
   "languages": [
@@ -55,8 +55,8 @@
     "styles/module.css"
   ],
   "packs": [],
-  "url": "https://github.com/theripper93/module-id",
-  "manifest": "https://github.com/theripper93/module-id/releases/latest/download/module.json",
+  "url": "https://github.com/giggioz/test",
+  "manifest": "https://github.com/giggioz/test/releases/latest/download/module.json",
   "download": "",
   "relationships": {
     "requires": [
